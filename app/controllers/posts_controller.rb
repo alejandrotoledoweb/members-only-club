@@ -1,5 +1,5 @@
 class PostsController < ApplicationController
-  before_action :set_post, only: [:new, :create]
+  before_action :set_post, only: [:edit, :show]
   before_action :authenticate_user!, except: [:index]
 
   # GET /posts
