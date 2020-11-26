@@ -1,5 +1,9 @@
 # Members-Club
 
+## About
+
+This project is a post secret project where you can't see the author's post if you are not signed up in the members-only-club.
+
 In this project we:
   - Generated the User model using the devise gem
   - Generated the post model using scaffold
@@ -8,7 +12,12 @@ In this project we:
  
 ## Built with
 
-- Ruby on Rails
+- Ruby
+Principal Gems used in this project:
+- Rails
+- Devise
+- Rubocop
+ 
 
 ## Getting Started
 
@@ -44,9 +53,9 @@ Open your browser, navigate to `http://localhost:3000` to create an account and 
 
 👤 **Blaise Pascal SHYAKA**
 
-- GitHub: [@githubhandle](https://github.com/Blaise-Shyaka)
-- Twitter: [@twitterhandle](https://twitter.com/blaise_shyaka95)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/blaise-pascal-shyaka)
+- GitHub: [Blaise Pascal](https://github.com/Blaise-Shyaka)
+- Twitter: [Blaise Pascal](https://twitter.com/blaise_shyaka95)
+- LinkedIn: [Blaise Pascal](https://www.linkedin.com/in/blaise-pascal-shyaka)
 
 ## 🤝 Contributing
 
@@ -63,3 +72,11 @@ Contributions, issues and feature requests are welcome! Start by:
 ## Show your support
 
 Give a ⭐️ if you like this project
+
+## 📝 License
+
+This project is MIT licensed.
+
+## Acknowledgments
+
+Ruby Capstone Project for Microverse Program
