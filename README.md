@@ -1,24 +1,65 @@
-# README
+# Members-Club
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project we:
+  - Generated the User model using the devise gem
+  - Generated the post model using scaffold
+  - Defined relationships between user and posts
+  - Added logic in the views to change displayed information depending on whether the user is signed in or not
+ 
+## Built with
 
-Things you may want to cover:
+- Ruby on Rails
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+- Ruby ~> [2.7.0](https://www.ruby-lang.org/es/downloads/)
+- Ruby on Rails ~> [6.0.3.4](https://rubyonrails.org/)
+- Bundler ~> [2.1.2](https://bundler.io/)
 
-* Database creation
+### Setup
 
-* Database initialization
+Clone this repository by running in your terminal `git clone https://github.com/alejandrotoledoweb/members-only-club
 
-* How to run the test suite
+### Install
 
-* Services (job queues, cache servers, search engines, etc.)
+After you clone the repository, `cd members-only-club`
 
-* Deployment instructions
+- Run `bundle install` to install all the required dependencies.
+- Run `rails db:migrate`
+- Run `rails server`
 
-* ...
+### Usage
+
+Open your browser, navigate to `http://localhost:3000` to create an account and view posts
+
+## Authors
+
+👤 **Alejandro Toledo**
+
+- GitHub: [@alejandrotoledoweb](https://github.com/alejandrotoledoweb)
+- Twitter: [@alejot](https://twitter.com/alejot) 
+- LinkedIn: [Alejandro Toledo](https://www.linkedin.com/in/alejandro-toledo-3b444b109/) 
+
+👤 **Blaise Pascal SHYAKA**
+
+- GitHub: [@githubhandle](https://github.com/Blaise-Shyaka)
+- Twitter: [@twitterhandle](https://twitter.com/blaise_shyaka95)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/blaise-pascal-shyaka)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome! Start by:
+
+- Forking the project
+- Cloning the project to your local machine
+- `cd` into the project directory
+- Run `git checkout -b your-branch-name`
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
+
+## Show your support
+
+Give a ⭐️ if you like this project
