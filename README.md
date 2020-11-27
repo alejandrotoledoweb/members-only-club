@@ -29,7 +29,7 @@ Principal Gems used in this project:
 
 ### Setup
 
-Clone this repository by running in your terminal `git clone https://github.com/alejandrotoledoweb/members-only-club
+Clone this repository by running in your terminal `git clone https://github.com/alejandrotoledoweb/members-only-club`
 
 ### Install
 
